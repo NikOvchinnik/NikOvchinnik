@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nikita-ovchinnikov)  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://github.com/NikOvchinnik)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:n.ovchinnik.s%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nikita-ovchinnikov)  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://github.com/NikOvchinnik)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:n.ovchinnik.s@gmail.com)
 
 ---
 
